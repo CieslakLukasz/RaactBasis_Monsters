@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RaactBasis_Monsters/static/css/main.d7a02477.css",
-    "main.js": "/RaactBasis_Monsters/static/js/main.cd5c4bd2.js",
-    "static/js/787.71774a75.chunk.js": "/RaactBasis_Monsters/static/js/787.71774a75.chunk.js",
-    "index.html": "/RaactBasis_Monsters/index.html",
-    "main.d7a02477.css.map": "/RaactBasis_Monsters/static/css/main.d7a02477.css.map",
-    "main.cd5c4bd2.js.map": "/RaactBasis_Monsters/static/js/main.cd5c4bd2.js.map",
-    "787.71774a75.chunk.js.map": "/RaactBasis_Monsters/static/js/787.71774a75.chunk.js.map"
+    "main.css": "/ReactBasis_Monsters/static/css/main.d7a02477.css",
+    "main.js": "/ReactBasis_Monsters/static/js/main.2363dabe.js",
+    "static/js/787.71774a75.chunk.js": "/ReactBasis_Monsters/static/js/787.71774a75.chunk.js",
+    "index.html": "/ReactBasis_Monsters/index.html",
+    "main.d7a02477.css.map": "/ReactBasis_Monsters/static/css/main.d7a02477.css.map",
+    "main.2363dabe.js.map": "/ReactBasis_Monsters/static/js/main.2363dabe.js.map",
+    "787.71774a75.chunk.js.map": "/ReactBasis_Monsters/static/js/787.71774a75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a02477.css",
-    "static/js/main.cd5c4bd2.js"
+    "static/js/main.2363dabe.js"
   ]
 }
