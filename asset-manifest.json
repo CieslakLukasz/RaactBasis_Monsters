@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactBasis_Monsters/static/css/main.d7a02477.css",
-    "main.js": "/ReactBasis_Monsters/static/js/main.2363dabe.js",
+    "main.css": "/ReactBasis_Monsters/static/css/main.588dee9f.css",
+    "main.js": "/ReactBasis_Monsters/static/js/main.ee018ed7.js",
     "static/js/787.71774a75.chunk.js": "/ReactBasis_Monsters/static/js/787.71774a75.chunk.js",
     "index.html": "/ReactBasis_Monsters/index.html",
-    "main.d7a02477.css.map": "/ReactBasis_Monsters/static/css/main.d7a02477.css.map",
-    "main.2363dabe.js.map": "/ReactBasis_Monsters/static/js/main.2363dabe.js.map",
+    "main.588dee9f.css.map": "/ReactBasis_Monsters/static/css/main.588dee9f.css.map",
+    "main.ee018ed7.js.map": "/ReactBasis_Monsters/static/js/main.ee018ed7.js.map",
     "787.71774a75.chunk.js.map": "/ReactBasis_Monsters/static/js/787.71774a75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a02477.css",
-    "static/js/main.2363dabe.js"
+    "static/css/main.588dee9f.css",
+    "static/js/main.ee018ed7.js"
   ]
 }
